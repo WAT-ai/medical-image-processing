@@ -11,3 +11,5 @@ This is the repository for the WAT.ai Medical Image Processing Project for the 2
 
 ## Data Handling and Version Control
 Do not add changes to the data files within your commits. Github will not allow you to push the dataset into the repository (too large of a file size). To avoid this issue, place your local dataset into a `root/` folder. The `.gitignore` file in this repository will prevent you from pushing anything within the root folder. 
+    - Add changes: `git add [filename]` or `git add .` (adds all updated files)
+    - Commit changes: `git commit -m "[commit details]"`
