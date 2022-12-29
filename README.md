@@ -15,4 +15,4 @@ This is the repository for the WAT.ai Medical Image Processing Project for the 2
 3. To avoid this issue, place your local dataset into a `root/` folder locally. The `.gitignore` file in this repository will prevent you from pushing anything within the root folder. 
     - Add changes: `git add [filename]` or `git add .` (adds all updated files)
     - Commit changes: `git commit -m "[commit details]"`
-    - Push changes: `git push` (ensure you are in the correct branch before pushing)
+    - Push changes: `git push origin [your branch]` (ensure you are in the correct branch before pushing)
