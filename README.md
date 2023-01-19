@@ -3,7 +3,7 @@ This is the repository for the WAT.ai Medical Image Processing Project for the 2
 
 ## Setup
 1. Clone the repository to your local machine: `git clone https://github.com/WAT-ai/medical-image-processing.git`
-2. Install project dependencies: `pip install requirements.txt` 
+2. Install project dependencies: `pip install -r requirements.txt` 
 3. Ensure you are working in the appropriate branch:
     - Check current branch: `git branch`
     - Switch branch: `git checkout [branch name]`
